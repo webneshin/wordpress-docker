@@ -1,8 +1,4 @@
-
-
-
-
-ARG PHP_VER=7.4
+ARG PHP_VER=8.1
 FROM wordpress:php${PHP_VER}
 
 
